@@ -20,8 +20,8 @@ Welcome to my Governance, Risk, and Compliance (GRC) and Data Protection portfol
 ## 🎓 Certifications & Alignment
 * **Identity and Access Administrator Associate (SC-300)**
 * **Certified Identity Governance Expert (CIGE)**
-•	**Certified Identity and Access Manager (CIAM)**
-•	**SailPoint Identity Security Leader**
-•	**Microsoft Security Operations Analyst (SC-200)**
+*	**Certified Identity and Access Manager (CIAM)**
+*	**SailPoint Identity Security Leader**
+*	**Microsoft Security Operations Analyst (SC-200)**
 * **Certified Ethical Hacker (CEH)**
 * **CompTIA Security+ (CE)**
