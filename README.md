@@ -16,11 +16,6 @@ This repository documents hands-on implementations across the 3 core domains of 
 * **Domain Focus:** Vulnerability SLAs, exception tracking, and Data Loss Prevention (DLP) auditing.
 * **Frameworks:** ISO 27001, CISO Security Policies, GDPR.
 
----
-## 🎓 Certifications & Alignment
-* **Certified Information Systems Security Professional (CISSP)**
-* **Certified Identity Governance Expert (CIGE)**
-* **Certified Information Systems Auditor (CISA) - Target**
 
 
 ---
